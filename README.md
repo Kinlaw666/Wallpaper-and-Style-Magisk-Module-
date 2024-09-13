@@ -1,3 +1,6 @@
+<table>
+  <tr>
+    <td><img src="https://res.cloudinary.com/dknyaaxxw/image/upload/v1726269614/Wallpaper%20and%20style/pdfie3ektl9gphlqrlsi.png" width="400" /></td>
 # Magisk Module: Wallpaper & Style for AOSP ROMs
 
 ## Descripción
