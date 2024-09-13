@@ -31,8 +31,7 @@ Una vez instalado, la aplicación **Wallpaper & Style** estará disponible en el
 
 ## Captura de Pantalla
 
-![Captura de Pantalla]
-(https://res.cloudinary.com/dknyaaxxw/image/upload/v1726265221/Wallpaper%20and%20style/p4b5ysfwipeznfpzskoc.png)
+![Captura de Pantalla)!(https://res.cloudinary.com/dknyaaxxw/image/upload/v1726265221/Wallpaper%20and%20style/p4b5ysfwipeznfpzskoc.png)
   
 ## Problemas Conocidos
 
