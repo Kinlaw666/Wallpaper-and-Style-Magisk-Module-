@@ -32,33 +32,7 @@ Una vez instalado, la aplicación **Wallpaper & Style** estará disponible en el
 ## Captura de Pantalla
 
 ![Captura de Pantalla]
-(cloudinary.v2.api
-  .create_folder('Wallpaper and style ')
-  .then(console.log);)
-  
-  (cloudinary.v2.uploader
-  .upload('Screenshot_20240913-174415_Fondo de pantalla y estilo.png', {
-    asset_folder: 'Wallpaper and style',
-    resource_type: 'image'})
-  .then(console.log);)
-  
-  (cloudinary.v2.uploader
-  .upload('Screenshot_20240913-174004_Fondo de pantalla y estilo.png', {
-    asset_folder: 'Wallpaper and style',
-    resource_type: 'image'})
-  .then(console.log);)
-
-(cloudinary.v2.uploader
-  .upload('Screenshot_20240913-174426_Fondo de pantalla y estilo.png', {
-    asset_folder: 'Wallpaper and style',
-    resource_type: 'image'})
-  .then(console.log);)
-
-  (cloudinary.v2.uploader
-  .upload('Screenshot_20240913-174420_Fondo de pantalla y estilo.png', {
-    asset_folder: 'Wallpaper and style',
-    resource_type: 'image'})
-  .then(console.log);)
+(https://res.cloudinary.com/dknyaaxxw/image/upload/v1726265221/Wallpaper%20and%20style/p4b5ysfwipeznfpzskoc.png)
   
 ## Problemas Conocidos
 
