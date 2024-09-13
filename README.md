@@ -31,8 +31,35 @@ Una vez instalado, la aplicación **Wallpaper & Style** estará disponible en el
 
 ## Captura de Pantalla
 
-![Captura de Pantalla](https://github.com/tu-usuario/tu-repositorio/raw/main/captura-de-pantalla.png)
+![Captura de Pantalla]
+(cloudinary.v2.api
+  .create_folder('Wallpaper and style ')
+  .then(console.log);)
+  
+  (cloudinary.v2.uploader
+  .upload('Screenshot_20240913-174415_Fondo de pantalla y estilo.png', {
+    asset_folder: 'Wallpaper and style',
+    resource_type: 'image'})
+  .then(console.log);)
+  
+  (cloudinary.v2.uploader
+  .upload('Screenshot_20240913-174004_Fondo de pantalla y estilo.png', {
+    asset_folder: 'Wallpaper and style',
+    resource_type: 'image'})
+  .then(console.log);)
 
+(cloudinary.v2.uploader
+  .upload('Screenshot_20240913-174426_Fondo de pantalla y estilo.png', {
+    asset_folder: 'Wallpaper and style',
+    resource_type: 'image'})
+  .then(console.log);)
+
+  (cloudinary.v2.uploader
+  .upload('Screenshot_20240913-174420_Fondo de pantalla y estilo.png', {
+    asset_folder: 'Wallpaper and style',
+    resource_type: 'image'})
+  .then(console.log);)
+  
 ## Problemas Conocidos
 
 - Algunas funciones pueden no ser completamente funcionales en todas las ROMs AOSP.
@@ -44,11 +71,7 @@ Una vez instalado, la aplicación **Wallpaper & Style** estará disponible en el
 
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar el módulo o encuentras errores, por favor abre un **issue** o envía un **pull request**.
 
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT](LICENSE).
-
-## Contacto
+##  Contacto
 
 Para cualquier pregunta o comentario, por favor contacta a osvaldocaceresbritez@gmail.com.
 
