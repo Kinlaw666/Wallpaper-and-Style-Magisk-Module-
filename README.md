@@ -64,6 +64,7 @@ Para cualquier pregunta o comentario, por favor contacta a osvaldocaceresbritez@
 ## Solución de Errores
 
 Para solucionar errores puedes tratar de instalar el apk desde:
+(Si intala el APK sin el módulo no se te instalará correctamente)
              https://www.apkmirror.com/apk/google-inc/google-wallpaper-picker/google-wallpaper-picker-14-release/
 
 Si sigue sin funcionar es por qué su rom no es compatible.
